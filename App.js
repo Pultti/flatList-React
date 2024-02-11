@@ -25,7 +25,7 @@ export default function App() {
 
  //useEffect(() => {
            //setFilteredData(items); // Use items state instead of DATA
-    //AsyncStorage.clear()  // Use this to clear the storage
+   // AsyncStorage.clear()  // Use this to clear the storage
    // getData()
   //}, []); // items // Add items to the dependency array 
 
